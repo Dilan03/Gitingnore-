@@ -1,3 +1,5 @@
 Some contents in the new file 
 
 bin/
+
+one more edit 
